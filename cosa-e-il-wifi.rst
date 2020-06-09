@@ -30,31 +30,31 @@ Gli standard del Wi-Fi
 In questo paragrafo mostreremo le tappe fondamentali delle
 certificazioni dello IEEE che stabiliscono gli standard tecnologici sui
 quali i produttori realizzano i loro dispositivi Wi-Fi. Ad oggi
-gli `standard Wi-Fi esistenti sono 9, anche se i più utilizzati sono 4.
+gli standard Wi-Fi esistenti sono 9, anche se i più utilizzati sono 4.
 
 .. table:: Tappe fondamentali implementazioni ordinate per velocità di trasmissione crescente WiFi
    :name: implementazioni-wifi-per-velocita
 
-+-----------------+-----------------+-----------------+-----------------+
-| Certificazione  | Velocità di     | Frequenza di    | Mezzo           |
-|                 | trasmissione    | lavoro          | trasmissivo     |
-|                 | max             |                 |                 |
-+=================+=================+=================+=================+
-| 802.11          | Da 1 a 2 Mb/s   | 2.4 GHz         | Infrarossi/onde |
-|                 |                 |                 | radio           |
-+-----------------+-----------------+-----------------+-----------------+
-| 802.11b         | 11 Mb/s         | 2.4 GHz         | Onde Radio      |
-+-----------------+-----------------+-----------------+-----------------+
-| 802.11a         | 54 Mb/s         | 5,4 GHz         | Onde Radio      |
-+-----------------+-----------------+-----------------+-----------------+
-| 802.11g         | 54 Mb/s         | 2.4GHz          | Onde Radio      |
-+-----------------+-----------------+-----------------+-----------------+
-| 802.11n         | 300 Mb/s        | 2.4GHz/5,4 GHz  | Onde Radio      |
-+-----------------+-----------------+-----------------+-----------------+
-| 802.11ac        | 1300 Mb/s       | 5,4 GHz         | Onde Radio      |
-+-----------------+-----------------+-----------------+-----------------+
-| IEEE 802.11ad   | 6750 Mb/s       | 60 GHz          | Onde Radio      |
-+-----------------+-----------------+-----------------+-----------------+
+   +-----------------+-----------------+-----------------+-----------------+
+   | Certificazione  | Velocità di     | Frequenza di    | Mezzo           |
+   |                 | trasmissione    | lavoro          | trasmissivo     |
+   |                 | max             |                 |                 |
+   +=================+=================+=================+=================+
+   | 802.11          | Da 1 a 2 Mb/s   | 2.4 GHz         | Infrarossi/onde |
+   |                 |                 |                 | radio           |
+   +-----------------+-----------------+-----------------+-----------------+
+   | 802.11b         | 11 Mb/s         | 2.4 GHz         | Onde Radio      |
+   +-----------------+-----------------+-----------------+-----------------+
+   | 802.11a         | 54 Mb/s         | 5,4 GHz         | Onde Radio      |
+   +-----------------+-----------------+-----------------+-----------------+
+   | 802.11g         | 54 Mb/s         | 2.4GHz          | Onde Radio      |
+   +-----------------+-----------------+-----------------+-----------------+
+   | 802.11n         | 300 Mb/s        | 2.4GHz/5,4 GHz  | Onde Radio      |
+   +-----------------+-----------------+-----------------+-----------------+
+   | 802.11ac        | 1300 Mb/s       | 5,4 GHz         | Onde Radio      |
+   +-----------------+-----------------+-----------------+-----------------+
+   | IEEE 802.11ad   | 6750 Mb/s       | 60 GHz          | Onde Radio      |
+   +-----------------+-----------------+-----------------+-----------------+
 
 Come possiamo notare in tabella, l'evoluzione tecnologica avvenuta a
 cavallo degli ultimi 20 anni, si focalizza sulla velocità di

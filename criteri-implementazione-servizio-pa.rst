@@ -60,10 +60,6 @@ dell'utente, da parte di almeno uno dei provider infrastrutturali, al
 fine di poter rispondere ai dettami normativi in materia di
 tracciabilità dell'utente.
 
-
-
-
-
 Identificazione
 ~~~~~~~~~~~~~~~~
 
@@ -97,7 +93,9 @@ finale [17]_.
 
 .. figure:: media/architettura-rete-pa.png
    :alt: Architettura rete PA
-   :name: architettura rete pa
+   :name: architettura-rete-pa
+
+   Architettura rete PA
 
 Configurazione della rete interna
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -312,7 +310,9 @@ apparati degli operatori.
 
 .. figure:: media/definizione-ambito-wifi-spc.png
    :alt: Definizione Ambito WiFi SPC
-   :name: definizione ambito wifi spc
+   :name: definizione-ambito-wifi-spc
+
+   Definizione Ambito WiFi SPC
 
 Per quanto riguarda l'implementazione del servizio sulla rete interna o
 sulla rete geografica, l'Amministrazione deve erogare il servizio Wi-Fi,
