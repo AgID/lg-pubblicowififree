@@ -29,15 +29,14 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
 
 .. figure:: media/servizio-wififree.png
    :alt: Servizio WiFi free
-   :name: servizio wifi free
+   :name: servizio-wifi-free
 
-|
+   Servizio WiFi free
 
 .. toctree::
    :maxdepth: 2
-   
-   introduzione.rst
-   Intro_consultazione.rst
+
+   intro_consultazione.rst
    scenario.rst
    
  
@@ -45,7 +44,7 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
    :maxdepth: 2
    :numbered:
    :caption: Documento in consultazione
-   
+
    cosa-e-il-wifi.rst
    framework-normativo-gestione-servizio-wifi.rst
    maggiori-esperienze-wifi-pa.rst
